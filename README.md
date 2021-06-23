@@ -29,6 +29,14 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### Publishing to `GitHub Pages`
+
+```bash
+yarn deploy
+```
+
+>when we run the above command, `yarn predeploy` will be run in advance
+
 ### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
